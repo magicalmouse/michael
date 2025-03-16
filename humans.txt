@@ -7,7 +7,7 @@ _______________________________________________________________________________
 
 DESIGNER
 
-Rafail Zhyhunov
+Michael Montero
 web development
 
 Dev tools:
